@@ -1,4 +1,4 @@
-# EPDS Python Project Template
+# Machine learning with agentic AI
 
 A template Python repository for getting a quick start on projects backed by good practice.
 
